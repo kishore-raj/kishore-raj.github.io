@@ -3,25 +3,25 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Kishoreraj Jayakumar
+    tagline: Full Stack Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: j.kishoreraj93@gmail.com
+    phone: +91-8939061354
+    website: kishore-raj.github.io #do not add http://
+    linkedin: kishoreraj1541993
+    xing: 
+    github: kishore-raj
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@kishorerajJaya1'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,23 +29,20 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Tamil
         level: Native
 
-      - idiom: French
-        level: Professional
 
-      - idiom: Spanish
-        level: Professional
 
     interests:
-      - item: Climbing
+      - item: Movies
         link:
 
-      - item: Snowboarding
+      - item: Games
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
@@ -57,9 +54,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Tech in Information Technology
+      university: University College Of Engineering, Tindivanam
+      time: 2010 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
